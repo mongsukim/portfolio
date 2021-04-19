@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mongsukim/port3/static/css/main.cfde37cc.chunk.css",
+    "main.js": "/mongsukim/port3/static/js/main.d7620c6e.chunk.js",
+    "main.js.map": "/mongsukim/port3/static/js/main.d7620c6e.chunk.js.map",
+    "runtime-main.js": "/mongsukim/port3/static/js/runtime-main.e265be29.js",
+    "runtime-main.js.map": "/mongsukim/port3/static/js/runtime-main.e265be29.js.map",
+    "static/js/2.ccb6ea48.chunk.js": "/mongsukim/port3/static/js/2.ccb6ea48.chunk.js",
+    "static/js/2.ccb6ea48.chunk.js.map": "/mongsukim/port3/static/js/2.ccb6ea48.chunk.js.map",
+    "index.html": "/mongsukim/port3/index.html",
+    "static/css/main.cfde37cc.chunk.css.map": "/mongsukim/port3/static/css/main.cfde37cc.chunk.css.map",
+    "static/js/2.ccb6ea48.chunk.js.LICENSE.txt": "/mongsukim/port3/static/js/2.ccb6ea48.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/mongsukim/port3/static/media/tape4.0edda878.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e265be29.js",
+    "static/js/2.ccb6ea48.chunk.js",
+    "static/css/main.cfde37cc.chunk.css",
+    "static/js/main.d7620c6e.chunk.js"
+  ]
+}
