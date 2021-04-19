@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mongsukim/react-github-pages/static/css/main.563290d3.chunk.css",
+    "main.js": "/mongsukim/react-github-pages/static/js/main.556643ab.chunk.js",
+    "main.js.map": "/mongsukim/react-github-pages/static/js/main.556643ab.chunk.js.map",
+    "runtime-main.js": "/mongsukim/react-github-pages/static/js/runtime-main.fef2005f.js",
+    "runtime-main.js.map": "/mongsukim/react-github-pages/static/js/runtime-main.fef2005f.js.map",
+    "static/js/2.ccb6ea48.chunk.js": "/mongsukim/react-github-pages/static/js/2.ccb6ea48.chunk.js",
+    "static/js/2.ccb6ea48.chunk.js.map": "/mongsukim/react-github-pages/static/js/2.ccb6ea48.chunk.js.map",
+    "index.html": "/mongsukim/react-github-pages/index.html",
+    "static/css/main.563290d3.chunk.css.map": "/mongsukim/react-github-pages/static/css/main.563290d3.chunk.css.map",
+    "static/js/2.ccb6ea48.chunk.js.LICENSE.txt": "/mongsukim/react-github-pages/static/js/2.ccb6ea48.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/mongsukim/react-github-pages/static/media/tape4.0edda878.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fef2005f.js",
+    "static/js/2.ccb6ea48.chunk.js",
+    "static/css/main.563290d3.chunk.css",
+    "static/js/main.556643ab.chunk.js"
+  ]
+}
