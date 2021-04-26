@@ -1,0 +1,187 @@
+/* 화면 너비가 0 ~ 1280px : 데스크탑 */
+@media (max-width: 1920px) {
+}
+@media (max-width: 1280px) {
+  body {
+    /* background: orange; */
+  }
+  .skill_box {
+    margin: 0 3%;
+  }
+  .about_p {
+    font-size: 150px;
+  }
+}
+
+@media (max-width: 960px) {
+  body {
+    // background: gray;
+  }
+  .bg-home1 {
+    background: url('../img/g1.png') no-repeat;
+
+    right: -10%;
+    top: 20%;
+    background-size: 80%;
+  }
+
+  .container {
+    width: 95%;
+  }
+
+  .sec1 {
+    width: 90%;
+    margin: 0 auto;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .profile_img {
+    margin-left: 0;
+  }
+  .profile_img img {
+    width: 50%;
+  }
+  .profile_info {
+    margin-left: 0;
+    text-align: center;
+  }
+  .profile_info h3 {
+    font-size: 40px;
+    letter-spacing: -1px;
+  }
+
+  .profile_desc {
+    width: 90%;
+    margin: 0 auto;
+    font-size: 18px;
+    line-height: 1.5;
+    padding-right: 0;
+  }
+  #footer {
+    height: auto;
+  }
+  .container1 {
+    display: inline-block;
+  }
+  .footer_left {
+    display: block;
+    flex: none;
+  }
+  .footer_right {
+    display: block;
+    margin: 0 auto;
+  }
+  .footer_right_box {
+    width: 300px;
+    height: 300px;
+  }
+  ////about_page////
+  .about_p {
+    font-size: 130px;
+  }
+  .about_site {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+  }
+  .about_left {
+    display: block;
+    flex: none;
+    margin-left: 0;
+    width: 90%;
+    padding-right: 0;
+    margin: 0 auto;
+  }
+  .about_right {
+    flex: none;
+    display: block;
+    margin-right: 0;
+    width: 90%;
+    margin: 0 auto;
+  }
+}
+/*태블릿*/
+@media (max-width: 768px) {
+  body {
+    /* background: lemonchiffon; */
+  }
+
+  .title_box {
+    padding: 0 3%;
+  }
+
+  .block-reveal {
+    font-size: 80px;
+  }
+  #section3 {
+    height: auto;
+  }
+  #section3 > .container {
+    display: block;
+  }
+  .section3_left {
+    background-image: none;
+    text-align: center;
+  }
+  .section3_right {
+    padding: 5% 5%;
+  }
+  .left_box {
+    align-items: center;
+    text-align: center;
+  }
+  .c2 {
+    margin-top: 0;
+  }
+  .sec2_ani {
+    font-size: 100px;
+  }
+  .about_p {
+    font-size: 100px;
+  }
+}
+/* 0-576 모바일 */
+@media (max-width: 576px) {
+  body {
+    /* background: lightskyblue; */
+  }
+
+  .bg-home1 {
+    background: url('../img/g1.png') no-repeat;
+    right: -40%;
+    top: 60%;
+    background-size: 50%;
+  }
+
+  #section3 > .container {
+    flex-direction: column;
+    justify-content: center;
+  }
+  .section3_left,
+  .section3_right {
+    display: inline-block;
+  }
+  .c1 {
+    margin-right: 0;
+  }
+  #section2 {
+    height: 600px;
+  }
+  .sec2 {
+    height: 500px;
+  }
+  .sec2_ani {
+    font-size: 70px;
+  }
+  .skill_box > div:nth-child(1):after,
+  .skill_box > div:nth-child(2):after,
+  .skill_box > div:nth-child(3):after,
+  .skill_box > div:nth-child(4):after {
+    font-size: 18px;
+  }
+  //about//
+  .about_p {
+    font-size: 70px;
+  }
+}
