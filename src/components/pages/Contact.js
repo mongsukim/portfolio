@@ -1,7 +1,4 @@
 import React from "react";
-import Footer from '../Footer';
-import Header from "../Header";
-import emailjs from 'emailjs-com';
 import { useForm } from "react-hook-form"
 
 const Contact = () => {

@@ -1,5 +1,4 @@
 import React from "react";
-import Footer from '../Footer';
 import Header from "../Header";
 import Categories from '../Categories';
 import NewsList from '../NewsList';

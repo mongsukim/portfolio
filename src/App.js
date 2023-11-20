@@ -5,8 +5,6 @@ import Main from "./components/pages/Main";
 import Works from "./components/pages/Works"; 
 import Cssani from "./components/pages/Cssani"; 
 import About from "./components/pages/About"; 
-import Contact from "./components/pages/Contact"; 
-import NewsPage from "./components/pages/Newspage";
 
 function App(){
   return(
