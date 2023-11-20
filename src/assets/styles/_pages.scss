@@ -336,6 +336,22 @@ h2 {
     transform: translate(0);
   }
 }
+
+.paperplane2 {
+  animation: paperplane2 1s both;
+}
+
+@keyframes paperplane2 {
+  0% {
+    transform: translate(100%, -150%);
+  }
+  100% {
+    transform: translate(0);
+  }
+}
+
+
+
 .bg-home6 {
   top: 17.5%;
   right: 18.6%;

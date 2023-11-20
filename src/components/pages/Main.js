@@ -4,8 +4,8 @@ import Header from "../Header";
 import { Link }from 'react-router-dom';
 
 function Main() {
-  let [inner,changeInner] = useState(['React']);
-  let [thumb,thumbPlus] = useState(0);
+  const [inner,changeInner] = useState(['React']);
+  const [thumb,thumbPlus] = useState(0);
   function changeTitle(){
     let newArray = [...inner];
     newArray[0] = ['HYESU'];

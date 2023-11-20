@@ -74,7 +74,7 @@ function Works(){
         <div className="header_container">
           <span className="sub_title">Only my works</span>
           <h2>WORKS</h2>
-          <p class="header_desc">
+          <p className="header_desc">
           HTML, CSS, JAVASCRIPT로 만든 웹사이트 입니다.
           </p>
           <div className="animal">
@@ -84,7 +84,7 @@ function Works(){
           <i className="bg-item3"></i>
           <i className="bg-item4"></i>
         </div>
-        <div class="container">
+        <div className="container">
         {workInner.map((txt)=> (
           <WorksText
           title={txt.title}

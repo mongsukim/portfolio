@@ -13,20 +13,20 @@ function AboutFooter() {
         <ul className="ul_sitemap">
             <div className="li_left">
             <span> SITEMAP </span>
-            <li><Link to="/">HOME</Link></li>
-            <li><Link to="/works">WORKS1</Link></li>
-            <Link to="/cssani">WORKS2</Link>
+            <li><Link href="/">HOME</Link></li>
+            <li><Link href="/works">WORKS1</Link></li>
+            <Link href="/cssani">WORKS2</Link>
             </div>
             <div className="li_right">
-            <li><Link to="/contact">CONTACT</Link></li>
-            <li><Link to="/about">ABOUT</Link></li>
+            <li><Link href="/contact">CONTACT</Link></li>
+            <li><Link href="/about">ABOUT</Link></li>
             </div>
         </ul>
         <ul className="ul_social">
             <div className="li_left">
             <span> SOCIAL </span>
-            <li><Link to="">BLOG</Link></li>
-            <li><Link to="">BEHANCE</Link></li>
+            <li><Link href="">BLOG</Link></li>
+            <li><Link href="">BEHANCE</Link></li>
             </div>
             <div className="li_right">
             <li>LINKDIN</li>
