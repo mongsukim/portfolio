@@ -42,8 +42,7 @@ function Main() {
               <span>
                 <span onClick={ ()=>{ thumbPlus(thumb+1)  } }>👍</span> {thumb}
               <span onClick={ changeTitle }>
-                제목바꾸기
-              </span>
+               </span>
               </span>
             </p>
 
@@ -63,11 +62,11 @@ function Main() {
                   <span>HELLO!</span>
                   <h3>김혜수 입니다</h3>
                   <p className="profile_desc">
-                    프론트엔드 개발자가 되기 위해 자바스크립트 이론과 리액트 문법을 배우며 프로젝트를
-                    만들었고 포기하지 않고 계속하자는 마인드를 항상 가지고 있습니다. 심미적으로
-                    뛰어나면서도 사용자 경험도 좋고, 성능도 뛰어난 웹사이트를 만드는 것이 저의 꿈입니다!
+                    항상 사용자의 입장에서 개발하자! <br/>
+                    저는 될 때까지 포기하지 않고 계속하자는 마인드를 가지고 있습니다.
+                    심미적으로 뛰어나면서도 사용자 경험도 좋고, 성능도 뛰어난 웹사이트를 만드는 것이 저의 꿈입니다!
                   </p>
-                  <Link className="btn">더보기</Link>
+                  <a className="btn" target="_blank" href="https://github.com/mongsukim">Github</a>
                 </div>
               </div>
             </div>
@@ -100,7 +99,7 @@ function Main() {
                 필수 지식을 익혔습니다.
               </p>
             </div>
-            <Link className="btn">더보기</Link>
+            <Link to="/works" className="btn">Go</Link>
           </div>
         </div>
         <div className="section3_right">

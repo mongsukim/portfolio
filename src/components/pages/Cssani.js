@@ -80,8 +80,8 @@ function CSSani(){
           </div>
           <div className="ani_box">
             <div className="game">
-            <Link to="https://codepen.io/mongsukim/pen/QWGQzJE">
-              <img src='https://mongsukim.github.io/port3/img/game1.jpeg' alt="" /></Link>
+            <a target="_blank" href="https://codepen.io/mongsukim/pen/QWGQzJE">
+              <img src='https://mongsukim.github.io/port3/img/game1.jpeg' alt="" /></a>
             </div>
             <span className="works_tag">#JAVASCRIPT</span>
             <h3 className="works_title">CARD GAME</h3>
@@ -120,9 +120,9 @@ function CSSani(){
           </div>
           <div className="ani_box">
             <div className="game">
-            <Link to="https://codepen.io/mongsukim/pen/Jjbpzdd">
+            <a target="_blank" href="https://codepen.io/mongsukim/pen/Jjbpzdd">
               <img src='https://mongsukim.github.io/port3/img/game2.png' alt="" />
-            </Link>
+            </a>
             </div>
             <span className="works_tag">#JAVASCRIPT</span>
             <h3 className="works_title">Minesweeper GAME</h3>

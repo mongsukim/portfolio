@@ -64,11 +64,11 @@ function Works(){
     <div id="wrap">
     
       <Header/>
-      <div id="loading1" className="active"></div>
-      <div id="loading2" className="active"></div>
-      <div id="loading3" className="active"></div>
-      <div id="loading4" className="active"></div>
-      <div id="loading5" className="active"></div>
+      {/*<div id="loading1" className="active"></div>*/}
+      {/*<div id="loading2" className="active"></div>*/}
+      {/*<div id="loading3" className="active"></div>*/}
+      {/*<div id="loading4" className="active"></div>*/}
+      {/*<div id="loading5" className="active"></div>*/}
 
       <section id="main">
         <div className="header_container">
